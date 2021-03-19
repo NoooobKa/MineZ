@@ -1,0 +1,6 @@
+name: MineZ
+main: com.NBK.MineZ.main.MineZMain
+version: 1.0
+commands:
+    Minez:
+    Logout:
